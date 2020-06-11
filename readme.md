@@ -12,6 +12,11 @@
 
 ✨✨**반짝반짝 빛나는 결과물**✨✨ 
 
+[이용수 할머니 기자회견문 워드클라우드]
+
+![mh2](https://user-images.githubusercontent.com/49093073/84362508-5096d700-ac08-11ea-8b95-59bf2a26ba91.png)
+
+
 [시카고 맛집 지도] 
 
 <img width="562" alt="시카고 맛집 분석" src="https://user-images.githubusercontent.com/49093073/83398865-2d676d00-a43b-11ea-9506-cfe0e1b56f66.png">
